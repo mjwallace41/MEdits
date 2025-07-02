@@ -1,0 +1,27 @@
+# Python virtual environment
+venv/
+
+# Media folders
+uploads/
+songs/
+output/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MoviePy temp files
+*.TEMP_MPY*
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# Logs or dumps
+*.log
+
